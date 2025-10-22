@@ -94,7 +94,7 @@
   description: "Flagship smartphone with triple-lens camera system and A18 Bionic chip."
   variants:
     - id: 301
-      color: "Blue"
+      color: "Red"
       price: 999.00
       inStock: true/false
       image: "images/bluephone.jpeg"
