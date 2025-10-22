@@ -122,22 +122,22 @@ has the following specifications:
   image: "images/nabia_focus__55629.jpg"
 
 - id: 13
-  name: "RockPhone 15 Pro Max"
+  name: " Zte Nubia Focus Pro, 6.7inch , 5G LTE ,256GB , Unlocked , New , Sealed                                                                "
   category: "Phone"
-  description: "Flagship smartphone with triple-lens camera system and A18 Bionic chip."
+  description: "   ."
   variants:
     - id: 301
-      color: "Gold"
-      price: 999.00
+      color: "Cream"
+      price: 339.99
       inStock: true/false
       image: "images/612Q5004-IL.jpg"
     - id: 302
-      color: "Blue"
-      price: 999.00
+      color: "Black"
+      price: 339.99
       inStock: true/false
       image: "images/blackphone.webp"
     - id: 303
       color: "Violet"
-      price: 1049.00  # maybe premium color costs more
+      price: 339.99  # maybe premium color costs more
       inStock: true/false
       image: "images/silverphone.webp"
