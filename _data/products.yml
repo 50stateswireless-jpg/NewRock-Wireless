@@ -159,6 +159,6 @@ has the following specifications:
       image: "images/blackphone.webp"
     - id: 303
       color: "Violet"
-      price: 339.99   maybe premium color costs more
+      price: 339.99
       inStock: true/false
       image: "images/silverphone.webp"
