@@ -152,13 +152,13 @@ has the following specifications:
       price: 339.99
       inStock: true/false
       image: "images/612Q5004-IL.jpg"
-    #- id: 302
-    #-  color: "Black"
-    #-  price: 339.99
-    #-  inStock: true/false
-    #-  image: "images/blackphone.webp"
-   #- - id: 303
-   #-   color: "Violet"
-   #-   price: 339.99  # maybe premium color costs more
-   #-   inStock: true/false
-   #-   image: "images/silverphone.webp"
+    - id: 302
+      color: "Black"
+      price: 339.99
+      inStock: true/false
+      image: "images/blackphone.webp"
+    - id: 303
+      color: "Violet"
+      price: 339.99   maybe premium color costs more
+      inStock: true/false
+      image: "images/silverphone.webp"
