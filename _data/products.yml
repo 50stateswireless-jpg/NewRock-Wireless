@@ -124,7 +124,7 @@ has the following specifications:
 - id: 13
   name: " ZTE Nubia Focus Pro, 6.7inch , 5G LTE ,256GB , Unlocked , New , Sealed                                                                "
   category: "Phone"
-  description: "  According to nubia's official website and GSMArena, the nubia Focus Pro 5G has the following key specifications: 
+  description: " According to nubia's official website and GSMArena, the nubia Focus Pro 5G has the following key specifications: 
 
     Display: 6.72-inch IPS LCD with a 120Hz refresh rate and a 2400 x 1080 FHD+ resolution.
     Processor: Unisoc T760 (6nm).
@@ -136,6 +136,8 @@ has the following specifications:
     Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.2, and NFC.
     Audio: Enhanced by DTS, though it lacks stereo speakers and a 3.5mm headphone jack.
     Other features: A side-mounted fingerprint sensor integrated into the power button, a customizable shortcut slider, a capacitive capture button, and a glass back. 
+
+
 
  ."
   variants:
