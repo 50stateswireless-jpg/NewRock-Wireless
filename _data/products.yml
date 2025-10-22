@@ -94,17 +94,17 @@
   description: "Flagship smartphone with triple-lens camera system and A18 Bionic chip."
   variants:
     - id: 301
-      color: "Blue"
+      color: "Gold"
       price: 999.00
       inStock: true/false
       image: "images/612Q5004-IL.jpg"
     - id: 302
-      color: "Black"
+      color: "Blue"
       price: 999.00
       inStock: true/false
       image: "images/blackphone.webp"
     - id: 303
-      color: "Silver"
+      color: "Violet"
       price: 1049.00  # maybe premium color costs more
       inStock: true/false
       image: "images/silverphone.webp"
