@@ -60,14 +60,14 @@
   name: "Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New, Sealed"
   category: "Tablet"
   price: 249.99
-  description: "New Sealed 4GB of Ram Cellular Unlocked 8.7 inches Android 13 with One UI 5.1 Rear camera is 8MP Front Camera is 2MP 5100 mAh Battery."
+  description: " Colors   Dark Blue, Silver, Graphite. New Sealed 4GB of Ram Cellular Unlocked 8.7 inches Android 13 with One UI 5.1 Rear camera is 8MP Front Camera is 2MP 5100 mAh Battery."
   image: "images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New, Sealed"
 
 - id: 3
   name: "Samsung Galaxy S25 Plus, 256GB 5G . Unlocked, Dual Sim , New , Sealed"
   category: "Phone"
   price: 949.99
-  description: "specifications: 
+  description: "specifications: Colors Mint , Navy , Silver Shadow 
 
     Display: 6.7-inch Dynamic LTPO AMOLED 2X, with 3120x1440 resolution, 120Hz refresh rate, and 2600 nits peak brightness.
     Processor: Qualcomm Snapdragon 8 Elite for Galaxy.
@@ -107,7 +107,7 @@
   name: "Tecno Spark Go 1S , 64GB , Dual Sim , 6.67-inch , Unlocked , New , Sealed"
   category: "Phone"
   price: 249.99
-  description: "Processor: MediaTek Helio G50 octa-core chipset RAM and storage: 3GB RAM and 64GB of internal storage. The storage is expandable via a microSDXC card. Display: A 6.67-inch IPS LCD with a 90Hz refresh rate and a resolution of 720 x 1600 pixels. Cameras: 13MP main rear camera with phase detection autofocus (PDAF) and a dual LED flash. The front-facing camera is 8MP and also has a flash. Battery: A 5,000mAh battery that supports 15W fast charging via a USB Type-C port. Operating system: Android 14 (Go edition) with Tecno's HiOS 14. Other features: Dual SIM support, IPX4 water resistance, rear-mounted fingerprint sensor, and facial recognition for security. "
+  description: " Colors Black ,White  Processor: MediaTek Helio G50 octa-core chipset RAM and storage: 3GB RAM and 64GB of internal storage. The storage is expandable via a microSDXC card. Display: A 6.67-inch IPS LCD with a 90Hz refresh rate and a resolution of 720 x 1600 pixels. Cameras: 13MP main rear camera with phase detection autofocus (PDAF) and a dual LED flash. The front-facing camera is 8MP and also has a flash. Battery: A 5,000mAh battery that supports 15W fast charging via a USB Type-C port. Operating system: Android 14 (Go edition) with Tecno's HiOS 14. Other features: Dual SIM support, IPX4 water resistance, rear-mounted fingerprint sensor, and facial recognition for security. "
   image: "images/tecno_spark_go_1s_black__76702.jpg"
 
 - id: 8
@@ -119,10 +119,10 @@
   image: "images/Xnet-Wifi--.jpeg"
 
 - id: 14
-  name: "Samsung Galaxy A03S ,32GB , 4G LTE , 6.5in , unlocked ,New , Sealed  "
+  name: "Samsung Galaxy A03S ,32GB , 4G LTE , 6.5in , unlocked ,New , Sealed "
   category: "Phone"
   price: 209.99
-  description: "According to Samsung's official website and other sources, the Samsung Galaxy A03s
+  description: " Colors Black According to Samsung's official website and other sources, the Samsung Galaxy A03s
 has the following specifications: 
 
     Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with a standard 60Hz refresh rate.
@@ -141,7 +141,7 @@ has the following specifications:
   name: " ZTE Nubia Focus 6.5inch , 5G LTE 4GB+256GB ,Dual Sim , New , Sealed  "
   category: "Phone"
   price: 289.99
-  description: " According to ZTE and GSMArena, the Nubia Focus 5G, released in early 2024, has the following specifications: 
+  description: " Colors Black   According to ZTE and GSMArena, the Nubia Focus 5G, released in early 2024, has the following specifications: 
 
     Dimensions: 163.6 x 74.9 x 8.6 mm.
     Weight: 205.5 g.
@@ -163,7 +163,7 @@ has the following specifications:
   name: "ZTE Nubia Focus Pro, 6.7inch , 5G LTE ,256GB , Unlocked , New , Sealed"
   category: "Phone"
   price: 339.99
-  description: "Here is a detailed breakdown of the specifications for the nubia Focus Pro 5G, according to ZTE's official website and sources like GSMArena. 
+  description: " Colors Black,Cream  Here is a detailed breakdown of the specifications for the nubia Focus Pro 5G, according to ZTE's official website and sources like GSMArena. 
 
     Dimensions: 166 x 76.1 x 8.5 mm.
     Weight: 206 g.
